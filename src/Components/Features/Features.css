@@ -1,0 +1,110 @@
+.feature_container {
+    display: flex;
+    flex-direction: column;
+    height: 850px;
+    justify-content: center;
+    align-items: center;
+}
+.feature_container button {
+    width: 130px;
+        height: 38px;
+        top: 448px;
+        left: 649px;
+        gap: 0px;
+        border-radius: 50px 50px 50px 50px;
+        opacity: 0px;
+        background: #F0FDDC;
+        font-family: Mulish;
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 25px;
+            text-align: center;
+            color:black ;
+            margin-bottom: 10px;
+}
+.feature_container h1 {
+        font-family: Mulish;
+            font-size: 30px;
+            font-weight: 700;
+            line-height: 37.65px;
+            text-align: left;
+            color: black;
+            margin-top: 10px;
+            margin-bottom: 50px;
+}
+.feature_card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.each_card {
+    width: 342px;
+        height: 253px;
+        top: 668px;
+        left: 195px;
+        gap: 0px;
+        border-radius: 10px 0px 0px 0px;
+        opacity: 0px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 15px 0px #0000001A;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 15px;
+}
+.each_card br {
+    width: 75px;
+        border: 3px solid #00C6D1;
+}
+.each_card div {
+    width: 77px;
+        height: 77px;
+        top: 702px;
+        left: 331px;
+        gap: 0px;
+        opacity: 0px;
+        background: #7FDA8E;
+        border-radius: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.each_card div button {
+    width: 30px;
+        height: 36.67px;
+        top: 723px;
+        left: 355px;
+        gap: 0px;
+        opacity: 0px;
+        background-color: transparent;
+        border-radius: 5px;
+        border: 5px solid #FFFFFF ;
+}
+.each_card h2 {
+        font-family: Poppins;
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 25px;
+            text-align: left;
+            color: black;
+            margin-top: 10px;
+}
+.each_card p {
+    width: 246px;
+        height: 70px;
+        top: 836px;
+        left: 242px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Poppins;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 18px;
+            text-align: center;
+            color: #4A4A4A;
+            margin-top: 10px;
+}

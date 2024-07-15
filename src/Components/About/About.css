@@ -1,0 +1,48 @@
+.about_conatiner {
+        height: 727px;
+        top: 323px;
+        left: -245px;
+        gap: 0px;
+        opacity: 0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+}
+.about h1 {
+    width: 503px;
+        height: 80px;
+        top: 496px;
+        left: 129px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Mulish;
+            font-size: 35px;
+            font-weight: 800;
+            line-height: 40px;
+            text-align: left;
+            color: black;
+}
+.about p {
+    width: 538px;
+        height: 207px;
+        top: 614px;
+        left: 129px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Poppins;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 25px;
+            text-align: left;
+            color: #6C6C6C;
+            margin-top: 20px;
+}
+.about_conatiner img {
+    width: 499px;
+        height: 499px;
+        top: 522px;
+        left: 791px;
+        gap: 0px;
+        opacity: 0px;
+}

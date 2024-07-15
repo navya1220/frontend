@@ -1,0 +1,26 @@
+.navbar {
+    list-style-type: none;
+        height: 25px;
+        top: 35px;
+        left: 923px;
+        gap: 0px;
+        opacity: 0px;
+        display: flex;
+        margin-top: 20px;
+}
+.navbar-container{
+    display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+}
+.nav-item {
+    font-family: Poppins;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 25px;
+        text-align: left;
+        color: #070707;
+        gap: 10px;
+        margin-right: 50px;
+        list-style-type: none;
+}
